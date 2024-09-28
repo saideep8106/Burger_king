@@ -1,0 +1,99 @@
+/* Footer.css */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.footer {
+    padding: 0px;
+    z-index: 1;
+    position: relative;
+}
+
+.footer-container {
+    width: 100%;
+    margin: 5px 0px 0px;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+}
+
+.qr-section {
+    text-align: center;
+    width: 250px;
+    height: 250px;
+}
+
+.qr-image {
+    width: 250px;
+    margin-left: 0px;
+}
+
+.offer-section {
+    margin-left: -600px;
+}
+
+.app-links {
+    margin: 10px 0;
+}
+
+.app-icon {
+    width: 150px;
+    margin: 5px;
+}
+
+.disclaimer {
+    font-size: 10px;
+    background-color:  #f7f0e1;
+    width: 300px;
+}
+
+.footer-links {
+    background-color: #542A1E;
+    padding: 10px;
+    margin-left: -20px;
+    color: rgb(118, 63, 63);
+
+}
+.footer-links p{
+    background-color: #542A1E;
+    color: #F5E7D1;
+    position: relative;
+    width: 600px;
+    /* border: 2px solid white; */
+    left: 400px;
+    font-size: 12px;
+
+}
+
+.footer-links a {
+    color: rgb(118, 63, 63);
+    font-size: 12px;
+
+}
+
+.navigation {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 0;
+    background-color: #F5E7D1;
+    position: sticky;
+    bottom: 0px;
+}
+
+.nav-item {
+    text-align: center;
+    color: #542A1E;
+}
+
+
+.nav-item span {
+    display: block;
+    font-size: 12px;
+    background-color: #F5E7D1;
+    cursor: pointer;
+}
