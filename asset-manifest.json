@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Burger_king_Reactjs/static/css/main.7c973aae.css",
+    "main.js": "/Burger_king_Reactjs/static/js/main.9e27aed7.js",
+    "index.html": "/Burger_king_Reactjs/index.html",
+    "main.7c973aae.css.map": "/Burger_king_Reactjs/static/css/main.7c973aae.css.map",
+    "main.9e27aed7.js.map": "/Burger_king_Reactjs/static/js/main.9e27aed7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c973aae.css",
+    "static/js/main.9e27aed7.js"
+  ]
+}
